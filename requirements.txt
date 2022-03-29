@@ -1,0 +1,13 @@
+eli5==0.11.0
+lime==0.2.0.1
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+plotly==4.12.0
+plotly_express==0.4.1
+scikit_learn==1.0.2
+seaborn==0.11.1
+shap==0.40.0
+streamlit==1.5.1
+click==8.0
+jinja2==3.0.3
